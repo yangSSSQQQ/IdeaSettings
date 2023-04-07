@@ -1,0 +1,7 @@
+<templateSet group="customer">
+  <template name="mapper" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; ?&gt;&#10;&lt;!DOCTYPE mapper&#10;        PUBLIC &quot;-//mybatis.org//DTD Mapper 3.0//EN&quot;&#10;        &quot;http://mybatis.org/dtd/mybatis-3-mapper.dtd&quot; &gt;&#10;&lt;mapper namespace=&quot;接口&quot;&gt;&#10;&#10;&lt;/mapper&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

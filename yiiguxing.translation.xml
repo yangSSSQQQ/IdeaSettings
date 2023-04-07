@@ -1,0 +1,93 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="418" />
+    <option name="newTranslationDialogX" value="609" />
+    <option name="newTranslationDialogY" value="411" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="ENCRY" />
+      <item value="Claims" />
+      <item value="Authorize Filter" />
+      <item value="Contents of array 'arr' are written to, but never read" />
+      <item value="has Capacity" />
+      <item value="Vending" />
+      <item value="String concatenation as argument to 'StringBuilder.append()' call" />
+      <item value="Duplicate configuration key 'spring.cloud.consul.config.data-key'" />
+      <item value="Fewer arguments provided (0) than placeholders specified (1)" />
+      <item value="Seek to current after exception; nested exception is org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method 'public void com.heima.article.listener.ArticleIncrHandleListener.onMessage(java.lang.String)' threw exception; nested exception is org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value; nested exception is org.springframework.data.redis.RedisSystemException: Error in execution; nested exception is io.lettuce.core.RedisCommandExecutionException: WRONGTYPE Operation against a key holding the wrong kind of value" />
+      <item value="Seek to current after exception" />
+      <item value="against" />
+      <item value="WRONGTYPE" />
+      <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
+      <item value="TimeoutException: Topic hot.article.score.topic not present in metadata after 60000 ms." />
+      <item value="opic hot.article.score.topic not present in metadata after 60000 ms." />
+      <item value="could not be established. Broker may not be available." />
+      <item value="no available server" />
+      <item value="[WARNING] The POM for org.lz4:lz4-java:jar:1.7.1 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details" />
+      <item value="Undeclared Throwable Exception" />
+      <item value="Article Incr Handle Listener" />
+      <item value="Unreachable statement" />
+      <item value="Unchecked call to 'send(String, V)' as a member of raw type 'org.springframework.kafka.core.KafkaTemplate'" />
+      <item value="Raw use of parameterized class 'KafkaTemplate'" />
+      <item value="Update Article Type" />
+      <item value="Invalid method declaration; return type required" />
+      <item value="Cannot resolve configuration property 'kafka.hosts'" />
+      <item value="APPLICATION" />
+      <item value="CLIENT" />
+      <item value="Iterable" />
+      <item value="APPLICATION ID CONFIG" />
+      <item value="DEFAULT VALUE SERDE CLASS CONFIG" />
+      <item value="DEFAULT KEY SERDE CLASS CONFIG" />
+      <item value="BOOTSTRAP SERVERS CONFIG" />
+      <item value="placeholder" />
+      <item value="wemedia" />
+      <item value="Local variable 'apArticleVoList' is redundant" />
+      <item value="Local variable 'articleListByLast5days' is redundant" />
+      <item value="cache Articles To Redis" />
+      <item value="calc Article Source" />
+      <item value="calc" />
+      <item value="Private field 'wemediaClient' is assigned but never accessed" />
+      <item value="compute Hot Article" />
+      <item value="Application context not configured for this file" />
+      <item value="REPAY" />
+      <item value="duplicate key error collection" />
+      <item value="duplicate" />
+      <item value="Type may be primitive" />
+      <item value="Unboxing of 'redisTemplate.opsForSet().isMember(comment_likes_key, dto.getCommentId())' may produce 'NullPointerException'" />
+      <item value="is Member" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="703" />
+        <entry key="ENGLISH" value="671" />
+        <entry key="ARABIC" value="3" />
+        <entry key="AFRIKAANS" value="2" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="3" />
+        <entry key="FILIPINO" value="3" />
+        <entry key="DUTCH" value="1" />
+        <entry key="CZECH" value="3" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="5" />
+        <entry key="TURKISH" value="2" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="INDONESIAN" value="3" />
+        <entry key="VIETNAMESE" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1679797269388" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="3b7549569d5c357e" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

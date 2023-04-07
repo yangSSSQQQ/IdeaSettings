@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="dw" value="document.write($1$ + &quot;&lt;br/&gt;&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
