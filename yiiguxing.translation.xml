@@ -90,4 +90,16 @@
       </youdao-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1680837368477" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="3b7549569d5c357e" />
+      </youdao-translate>
+    </option>
+  </component>
 </application>
