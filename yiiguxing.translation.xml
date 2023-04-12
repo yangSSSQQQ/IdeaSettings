@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680837368477" />
+    <option name="lastTrimTime" value="1681281761619" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -104,12 +104,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="confirm access" />
       <item value="set Expire Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
