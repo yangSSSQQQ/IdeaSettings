@@ -10,6 +10,14 @@
           <option name="url" value="https://gitee.com/yang8698/aidex-sharp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub-cn-south-1.devcloud.huaweicloud.com/obu_faxing00001/gdgs_sr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codehub-cn-south-1.devcloud.huaweicloud.com" />
+          <option name="userName" value="unitoll/yaozhenkun" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
