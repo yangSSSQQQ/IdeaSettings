@@ -104,6 +104,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Park" />
+      <item value="check Problem Proces Park" />
       <item value="Platform Problem Proces Park" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="complaint" />
@@ -117,8 +119,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
