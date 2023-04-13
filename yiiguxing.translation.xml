@@ -104,6 +104,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Blank" />
+      <item value="Transaction" />
+      <item value="get Is Online Transaction" />
       <item value="T Sr Problem Proces Extend Example" />
       <item value="Park" />
       <item value="check Problem Proces Park" />
@@ -120,8 +123,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
