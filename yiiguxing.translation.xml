@@ -104,6 +104,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Easy Poi" />
+      <item value="Proces Park" />
+      <item value="Problem" />
+      <item value="Platform" />
+      <item value="Platform Problem Proces Park Import Vo" />
       <item value="Problem Proces" />
       <item value="is Blank" />
       <item value="Transaction" />
@@ -124,8 +129,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="21" />
+        <entry key="CZECH" value="1" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
