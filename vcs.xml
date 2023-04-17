@@ -3,20 +3,36 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@gitee.com:yang8698/javase182.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitee.com/yang8698/leadnews-2021.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://gitee.com" />
-          <option name="userName" value="351818873@qq.com" />
+          <option name="userName" value="13607758698" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/yang8698/aidex-sharp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub-cn-south-1.devcloud.huaweicloud.com/obu_faxing00001/gdgs_sr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codehub-cn-south-1.devcloud.huaweicloud.com" />
+          <option name="userName" value="unitoll/yaozhenkun" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub-cn-south-1.devcloud.huaweicloud.com/obu_faxing00001/gdgs_sso.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub-cn-south-1.devcloud.huaweicloud.com/unitoll_hlw_liudongdong00001/gdgs_zsk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codehub-cn-south-1.devcloud.huaweicloud.com/obu_faxing00001/gdgs_sam.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Administrator\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -25,8 +41,10 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
