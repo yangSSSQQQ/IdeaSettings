@@ -103,7 +103,11 @@
     </option>
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="745" />
+    <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="You have to resolve all merge conflicts before merge. After resolving conflicts you also probably would want to commit your files to the current branch." />
       <item value="SPECIAL ARCHIVE" />
       <item value="ARCHIVE" />
       <item value="特殊归档" />
