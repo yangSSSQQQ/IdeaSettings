@@ -103,10 +103,14 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="745" />
-    <option name="newTranslationDialogY" value="478" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1020" />
+    <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Condition 'isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)' is always 'false'" />
+      <item value="Operator '&amp;&amp;' cannot be applied to 'java.lang.Integer', 'boolean'" />
+      <item value="isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)" />
       <item value="is Refund Import" />
       <item value="is Dept Repeat" />
       <item value="group Id" />
@@ -154,13 +158,11 @@
       <item value="Accept" />
       <item value="T Sr Bankinfo Relations Mapper" />
       <item value="Remind" />
-      <item value="Time Out Remind Status Mapper" />
-      <item value="confirm access" />
-      <item value="set Expire Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
+        <entry key="CHINESE" value="57" />
+        <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="ENGLISH" value="54" />
         <entry key="ITALIAN" value="1" />
