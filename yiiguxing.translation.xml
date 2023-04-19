@@ -108,6 +108,11 @@
     <option name="newTranslationDialogX" value="1020" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="park" />
+      <item value="park Flag" />
+      <item value="Park" />
+      <item value="platform" />
+      <item value="停车场" />
       <item value="Condition 'isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)' is always 'false'" />
       <item value="Operator '&amp;&amp;' cannot be applied to 'java.lang.Integer', 'boolean'" />
       <item value="isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)" />
@@ -149,22 +154,17 @@
       <item value="Transaction" />
       <item value="get Is Online Transaction" />
       <item value="T Sr Problem Proces Extend Example" />
-      <item value="Park" />
       <item value="check Problem Proces Park" />
       <item value="Platform Problem Proces Park" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="complaint" />
-      <item value="Element" />
-      <item value="Accept" />
-      <item value="T Sr Bankinfo Relations Mapper" />
-      <item value="Remind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="62" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="ENGLISH" value="59" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
