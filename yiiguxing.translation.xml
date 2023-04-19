@@ -107,8 +107,11 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
-      <item value="WORK ITEM OWNER TYPE PARKING" />
       <item value="is Refund Import" />
+      <item value="is Dept Repeat" />
+      <item value="group Id" />
+      <item value="operator Id" />
+      <item value="WORK ITEM OWNER TYPE PARKING" />
       <item value="SRV REQST TYPE ID" />
       <item value="get Srv Reqst Type Id" />
       <item value="Refund Adjustment Enum" />
@@ -131,7 +134,6 @@
       <item value="and Res Type Ids Equal To" />
       <item value="criteria" />
       <item value="Problem Proces" />
-      <item value="is Dept Repeat" />
       <item value="Criteria" />
       <item value="accept Info" />
       <item value="Easy Poi" />
@@ -158,9 +160,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
+        <entry key="CHINESE" value="56" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="54" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
