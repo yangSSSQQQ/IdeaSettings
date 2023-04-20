@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="1020" />
     <option name="newTranslationDialogY" value="508" />
     <histories>
+      <item value="Plat" />
+      <item value="is Park Plat" />
       <item value="set Reply Opinion" />
       <item value="problem Proces" />
       <item value="park" />
@@ -156,15 +158,14 @@
       <item value="Transaction" />
       <item value="get Is Online Transaction" />
       <item value="T Sr Problem Proces Extend Example" />
-      <item value="check Problem Proces Park" />
-      <item value="Platform Problem Proces Park" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="66" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
