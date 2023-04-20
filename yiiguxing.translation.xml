@@ -104,10 +104,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="596" />
-    <option name="newTranslationDialogX" value="1020" />
-    <option name="newTranslationDialogY" value="508" />
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="729" />
+    <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="The value changed at 'isSpecialPark++' is never used" />
+      <item value="Condition 'isSpecialPark &gt; 0' is always 'false'" />
+      <item value="Value 'isSpecialPark' is always 'false'" />
+      <item value="Condition 'isSpecialPark' is always 'false'" />
       <item value="Plat" />
       <item value="is Park Plat" />
       <item value="set Reply Opinion" />
@@ -154,10 +158,6 @@
       <item value="Problem" />
       <item value="Platform" />
       <item value="Platform Problem Proces Park Import Vo" />
-      <item value="is Blank" />
-      <item value="Transaction" />
-      <item value="get Is Online Transaction" />
-      <item value="T Sr Problem Proces Extend Example" />
     </histories>
     <option name="languageScores">
       <map>
