@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="T Sr Toll Dispute Record Example" />
+      <item value="t Sr Toll Dispute Record Example" />
       <item value="t Sr Outbound Infos" />
       <item value="Duplicated code fragment (6 lines long)" />
       <item value="Non-static method 'refundImport2(java.util.List&lt;com.asiainfo.domain.basesr.TSrProblemProcesExtend&gt;, java.lang.String)' cannot be referenced from a static context" />
@@ -156,15 +158,13 @@
       <item value="DEBIT CARD CHANG" />
       <item value="INTER PROVINCIAL ARCHIVE" />
       <item value="update By Primary Key Selective" />
-      <item value="Upgradation" />
-      <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
+        <entry key="CHINESE" value="80" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
