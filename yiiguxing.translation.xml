@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681718485426" />
+    <option name="lastTrimTime" value="1682212569319" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -108,6 +108,20 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Non-static method 'refundImport2(java.util.List&lt;com.asiainfo.domain.basesr.TSrProblemProcesExtend&gt;, java.lang.String)' cannot be referenced from a static context" />
+      <item value="label No Msg" />
+      <item value="Contents of StringBuilder 'lableNoMsg' are updated, but never queried" />
+      <item value="bzx Batch No" />
+      <item value="get Cross Prov Refund Import Excel Vos" />
+      <item value="More arguments provided (1) than placeholders specified (0)" />
+      <item value="Duplicate" />
+      <item value="refund Method Duplicate" />
+      <item value="Converter" />
+      <item value="customer Info Query" />
+      <item value="Plate" />
+      <item value="license" />
+      <item value="license Plate" />
+      <item value="车牌号" />
       <item value="The value changed at 'isSpecialPark++' is never used" />
       <item value="Condition 'isSpecialPark &gt; 0' is always 'false'" />
       <item value="Value 'isSpecialPark' is always 'false'" />
@@ -144,27 +158,13 @@
       <item value="If you want an embedded database please put a supported one on the classpath. If you have database settings to be loaded from a particular profile you may need to active it (no profiles are currently active)." />
       <item value="Cannot determine embedded database driver class for database type NONE" />
       <item value="Unsupported Encoding Exception" />
-      <item value="Internet" />
-      <item value="accept" />
-      <item value="accept For Internet" />
-      <item value="add T Sr Problem Process" />
-      <item value="and Res Type Ids Equal To" />
-      <item value="criteria" />
-      <item value="Problem Proces" />
-      <item value="Criteria" />
-      <item value="accept Info" />
-      <item value="Easy Poi" />
-      <item value="Proces Park" />
-      <item value="Problem" />
-      <item value="Platform" />
-      <item value="Platform Problem Proces Park Import Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
+        <entry key="CHINESE" value="78" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="74" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
