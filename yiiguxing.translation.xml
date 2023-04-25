@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="'@Slf4j' not applicable to method" />
       <item value="Transaction Data" />
       <item value="Unable to close ApplicationContext" />
       <item value="Invalid packaging for parent POM org.springframework.boot:spring-boot-starter:2.3.8.RELEASE, must be &quot;pom&quot; but is &quot;jar&quot;" />
@@ -157,7 +158,6 @@
       <item value="WORK ITEM OWNER TYPE PARKING" />
       <item value="SRV REQST TYPE ID" />
       <item value="get Srv Reqst Type Id" />
-      <item value="Refund Adjustment Enum" />
     </histories>
     <option name="languageScores">
       <map>
