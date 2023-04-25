@@ -104,10 +104,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="'getPrivateKey(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)' in 'com.asiainfo.domain.util.RSAUtils' cannot be applied to '(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.lang.String)'" />
+      <item value="Cannot resolve symbol 'lang3'" />
       <item value="'@Slf4j' not applicable to method" />
       <item value="Transaction Data" />
       <item value="Unable to close ApplicationContext" />
@@ -156,8 +158,6 @@
       <item value="group Id" />
       <item value="operator Id" />
       <item value="WORK ITEM OWNER TYPE PARKING" />
-      <item value="SRV REQST TYPE ID" />
-      <item value="get Srv Reqst Type Id" />
     </histories>
     <option name="languageScores">
       <map>
