@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="For artifact {org.springframework.boot:spring-boot-starter-web:null:jar}: The version cannot be empty." />
       <item value="sc Front Loading" />
       <item value="Card No Query Result" />
       <item value="Front Loading Flag" />
@@ -157,7 +158,6 @@
       <item value="Refund" />
       <item value="You have to resolve all merge conflicts before merge. After resolving conflicts you also probably would want to commit your files to the current branch." />
       <item value="SPECIAL ARCHIVE" />
-      <item value="ARCHIVE" />
     </histories>
     <option name="languageScores">
       <map>
