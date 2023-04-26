@@ -104,10 +104,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="填充方法" />
+      <item value="Method 'testMethod' is inherited. Do you want to add exceptions to method signatures in the whole method hierarchy?" />
+      <item value="'get(java.lang.Object)' in 'java.lang.reflect.Field' cannot be applied to '()'" />
+      <item value="Illegal Access Exception" />
+      <item value="Unhandled exception: java.lang.IllegalAccessException" />
+      <item value="参数" />
+      <item value="param" />
       <item value="'getPrivateKey(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)' in 'com.asiainfo.domain.util.RSAUtils' cannot be applied to '(java.util.Map&lt;java.lang.String,java.lang.Object&gt;, java.lang.String)'" />
       <item value="Cannot resolve symbol 'lang3'" />
       <item value="'@Slf4j' not applicable to method" />
@@ -151,22 +158,16 @@
       <item value="platform" />
       <item value="停车场" />
       <item value="Condition 'isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)' is always 'false'" />
-      <item value="Operator '&amp;&amp;' cannot be applied to 'java.lang.Integer', 'boolean'" />
-      <item value="isRefundImport &amp;&amp; tSrProblemProces.getSrvReqstTypeId().equals(&quot;011005&quot;)" />
-      <item value="is Refund Import" />
-      <item value="is Dept Repeat" />
-      <item value="group Id" />
-      <item value="operator Id" />
-      <item value="WORK ITEM OWNER TYPE PARKING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
+        <entry key="CHINESE" value="89" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="ENGLISH" value="83" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
+        <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
   </component>
