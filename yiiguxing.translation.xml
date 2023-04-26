@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="No usages found in All Places" />
       <item value="Connection timed out: connect; nested exception is java.net.ConnectException: Connection timed out: connect" />
       <item value="Resource Access Exception" />
       <item value="refund" />
@@ -157,7 +158,6 @@
       <item value="Plat" />
       <item value="is Park Plat" />
       <item value="set Reply Opinion" />
-      <item value="problem Proces" />
     </histories>
     <option name="languageScores">
       <map>
