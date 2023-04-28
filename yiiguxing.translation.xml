@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682212569319" />
+    <option name="lastTrimTime" value="1682647099176" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="There are 9 changes and 3 conflicts left unprocessed. Save changes and mark the conflict resolved anyway?" />
       <item value="The previous cherry-pick is now empty, possibly due to conflict resolution. If you wish to commit it anyway, use: git commit --allow-empty Otherwise, please use 'git cherry-pick --skip'" />
       <item value="No usages found in All Places" />
       <item value="Connection timed out: connect; nested exception is java.net.ConnectException: Connection timed out: connect" />
@@ -157,7 +158,6 @@
       <item value="Value 'isSpecialPark' is always 'false'" />
       <item value="Condition 'isSpecialPark' is always 'false'" />
       <item value="Plat" />
-      <item value="is Park Plat" />
     </histories>
     <option name="languageScores">
       <map>
