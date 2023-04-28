@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="The previous cherry-pick is now empty, possibly due to conflict resolution. If you wish to commit it anyway, use: git commit --allow-empty Otherwise, please use 'git cherry-pick --skip'" />
       <item value="No usages found in All Places" />
       <item value="Connection timed out: connect; nested exception is java.net.ConnectException: Connection timed out: connect" />
       <item value="Resource Access Exception" />
@@ -157,7 +158,6 @@
       <item value="Condition 'isSpecialPark' is always 'false'" />
       <item value="Plat" />
       <item value="is Park Plat" />
-      <item value="set Reply Opinion" />
     </histories>
     <option name="languageScores">
       <map>
