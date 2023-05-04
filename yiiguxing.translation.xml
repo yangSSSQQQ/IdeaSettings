@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Customer Transfer" />
+      <item value="Transfer" />
       <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
       <item value="Cannot resolve method 'getComplainantTel' in 'PlatformProblemProcesImportVo'" />
       <item value="Class 'PlatformRecordImportServiceImpl' must either be declared abstract or implement abstract method 'platformProblemProcesImportPark(List&lt;PlatformProblemProcesParkImportVo&gt;, String, String, String)' in 'IPlatformRecordImportService'" />
@@ -156,15 +158,13 @@
       <item value="license" />
       <item value="license Plate" />
       <item value="车牌号" />
-      <item value="The value changed at 'isSpecialPark++' is never used" />
-      <item value="Condition 'isSpecialPark &gt; 0' is always 'false'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
+        <entry key="CHINESE" value="99" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="93" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
