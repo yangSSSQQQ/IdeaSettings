@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
       <item value="Cannot resolve method 'getComplainantTel' in 'PlatformProblemProcesImportVo'" />
       <item value="Class 'PlatformRecordImportServiceImpl' must either be declared abstract or implement abstract method 'platformProblemProcesImportPark(List&lt;PlatformProblemProcesParkImportVo&gt;, String, String, String)' in 'IPlatformRecordImportService'" />
       <item value="There are 9 changes and 3 conflicts left unprocessed. Save changes and mark the conflict resolved anyway?" />
@@ -157,7 +158,6 @@
       <item value="车牌号" />
       <item value="The value changed at 'isSpecialPark++' is never used" />
       <item value="Condition 'isSpecialPark &gt; 0' is always 'false'" />
-      <item value="Value 'isSpecialPark' is always 'false'" />
     </histories>
     <option name="languageScores">
       <map>
