@@ -104,10 +104,19 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="729" />
-    <option name="newTranslationDialogY" value="524" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="231" />
+    <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Contents of collection 'customerShowList' are updated, but never queried" />
+      <item value="Unchecked cast: 'java.util.List&lt;capture&lt;?&gt;&gt;' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
+      <item value="Illegal generic type for instanceof" />
+      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
+      <item value="Raw use of parameterized class 'List&lt;&gt;'" />
+      <item value="Raw use of parameterized class 'TSrCommResponse'" />
+      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getData is erased" />
+      <item value="Unchecked cast: 'java.util.List' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getDatas is erased" />
+      <item value="Unchecked assignment: 'java.util.List' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getDatas is erased" />
       <item value="platform" />
       <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
@@ -149,15 +158,6 @@
       <item value="Front Loading Flag" />
       <item value="Commit ec1455e0cf320f46aafe10af7974755fc99058fd has 2 parents" />
       <item value="T Sr Toll Dispute Record Example" />
-      <item value="t Sr Toll Dispute Record Example" />
-      <item value="t Sr Outbound Infos" />
-      <item value="Duplicated code fragment (6 lines long)" />
-      <item value="Non-static method 'refundImport2(java.util.List&lt;com.asiainfo.domain.basesr.TSrProblemProcesExtend&gt;, java.lang.String)' cannot be referenced from a static context" />
-      <item value="label No Msg" />
-      <item value="Contents of StringBuilder 'lableNoMsg' are updated, but never queried" />
-      <item value="bzx Batch No" />
-      <item value="get Cross Prov Refund Import Excel Vos" />
-      <item value="More arguments provided (1) than placeholders specified (0)" />
     </histories>
     <option name="languageScores">
       <map>
