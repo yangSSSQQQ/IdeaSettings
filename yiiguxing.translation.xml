@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="show Customer List" />
       <item value="Variable 'jsonObject' is already defined in the scope" />
       <item value="Contents of collection 'map' are updated, but never queried" />
@@ -157,7 +158,6 @@
       <item value="get Cross Prov Refund Import Excel Vos" />
       <item value="More arguments provided (1) than placeholders specified (0)" />
       <item value="Duplicate" />
-      <item value="refund Method Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
