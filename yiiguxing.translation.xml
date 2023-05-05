@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="729" />
     <option name="newTranslationDialogY" value="524" />
     <histories>
+      <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="show Customer List" />
       <item value="Variable 'jsonObject' is already defined in the scope" />
@@ -117,7 +118,6 @@
       <item value="card Issue Time" />
       <item value="Customer Transfer" />
       <item value="Transfer" />
-      <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
       <item value="Cannot resolve method 'getComplainantTel' in 'PlatformProblemProcesImportVo'" />
       <item value="Class 'PlatformRecordImportServiceImpl' must either be declared abstract or implement abstract method 'platformProblemProcesImportPark(List&lt;PlatformProblemProcesParkImportVo&gt;, String, String, String)' in 'IPlatformRecordImportService'" />
       <item value="There are 9 changes and 3 conflicts left unprocessed. Save changes and mark the conflict resolved anyway?" />
