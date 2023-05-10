@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683167510184" />
+    <option name="lastTrimTime" value="1683687769288" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Reference" />
       <item value="Contents of collection 'customerShowList' are updated, but never queried" />
       <item value="Unchecked cast: 'java.util.List&lt;capture&lt;?&gt;&gt;' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
       <item value="Illegal generic type for instanceof" />
@@ -157,14 +158,13 @@
       <item value="Card No Query Result" />
       <item value="Front Loading Flag" />
       <item value="Commit ec1455e0cf320f46aafe10af7974755fc99058fd has 2 parents" />
-      <item value="T Sr Toll Dispute Record Example" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="105" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
