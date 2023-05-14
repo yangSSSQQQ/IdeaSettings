@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Can be replaced with 'peek'" />
       <item value="Merit Student" />
       <item value="'return' inside 'finally' block" />
       <item value="练习" />
@@ -157,7 +158,6 @@
       <item value="Transaction Data" />
       <item value="Unable to close ApplicationContext" />
       <item value="Invalid packaging for parent POM org.springframework.boot:spring-boot-starter:2.3.8.RELEASE, must be &quot;pom&quot; but is &quot;jar&quot;" />
-      <item value="For artifact {org.springframework.boot:spring-boot-starter-web:null:jar}: The version cannot be empty." />
     </histories>
     <option name="languageScores">
       <map>
