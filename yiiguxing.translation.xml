@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Source code does not match the bytecode" />
       <item value="Can be replaced with 'peek'" />
       <item value="Merit Student" />
       <item value="'return' inside 'finally' block" />
@@ -157,7 +158,6 @@
       <item value="'@Slf4j' not applicable to method" />
       <item value="Transaction Data" />
       <item value="Unable to close ApplicationContext" />
-      <item value="Invalid packaging for parent POM org.springframework.boot:spring-boot-starter:2.3.8.RELEASE, must be &quot;pom&quot; but is &quot;jar&quot;" />
     </histories>
     <option name="languageScores">
       <map>
