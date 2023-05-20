@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Cannot resolve configuration property 'sky.shop.address'" />
       <item value="put Order Rejection Reason" />
       <item value="put Order Cancel Reason" />
       <item value="Local variable 'orderStatisticsVO' is redundant" />
@@ -157,7 +158,6 @@
       <item value="CX" />
       <item value="Can not set java.lang.String field com.asiainfo.domain.test.ScanRequestDto.operType to java.lang.String" />
       <item value="填充方法" />
-      <item value="Method 'testMethod' is inherited. Do you want to add exceptions to method signatures in the whole method hierarchy?" />
     </histories>
     <option name="languageScores">
       <map>
