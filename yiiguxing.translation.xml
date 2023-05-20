@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Local variable 'orderStatisticsVO' is redundant" />
       <item value="@MapKey is required" />
       <item value="property (key) can not found setter method" />
       <item value="statistics" />
@@ -157,7 +158,6 @@
       <item value="Method 'testMethod' is inherited. Do you want to add exceptions to method signatures in the whole method hierarchy?" />
       <item value="'get(java.lang.Object)' in 'java.lang.reflect.Field' cannot be applied to '()'" />
       <item value="Illegal Access Exception" />
-      <item value="Unhandled exception: java.lang.IllegalAccessException" />
     </histories>
     <option name="languageScores">
       <map>
