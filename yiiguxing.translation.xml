@@ -108,6 +108,12 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Unhandled exception: java.lang.Exception" />
+      <item value="纬度" />
+      <item value="经度" />
+      <item value="lng" />
+      <item value="Cannot resolve constructor 'JSONObject(java.lang.String)'" />
+      <item value="Malformed URL Exception" />
       <item value="check Location Range" />
       <item value="Cannot resolve configuration property 'sky.shop.address'" />
       <item value="put Order Rejection Reason" />
@@ -152,22 +158,17 @@
       <item value="There are 9 changes and 3 conflicts left unprocessed. Save changes and mark the conflict resolved anyway?" />
       <item value="The previous cherry-pick is now empty, possibly due to conflict resolution. If you wish to commit it anyway, use: git commit --allow-empty Otherwise, please use 'git cherry-pick --skip'" />
       <item value="No usages found in All Places" />
-      <item value="Connection timed out: connect; nested exception is java.net.ConnectException: Connection timed out: connect" />
-      <item value="Resource Access Exception" />
-      <item value="refund" />
-      <item value="被动扫码" />
-      <item value="CX" />
-      <item value="Can not set java.lang.String field com.asiainfo.domain.test.ScanRequestDto.operType to java.lang.String" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="120" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="113" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
