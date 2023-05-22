@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Condition 'address == null' is always 'false'" />
       <item value="路径" />
       <item value="路线规划" />
       <item value="路线" />
@@ -157,7 +158,6 @@
       <item value="card Issue Time" />
       <item value="Customer Transfer" />
       <item value="Transfer" />
-      <item value="Cannot resolve method 'getComplainantTel' in 'PlatformProblemProcesImportVo'" />
     </histories>
     <option name="languageScores">
       <map>
