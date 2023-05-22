@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="overview Dishes" />
       <item value="SQL dialect is not configured." />
       <item value="当时用户数" />
       <item value="当时" />
@@ -157,14 +158,13 @@
       <item value="Unchecked assignment: 'java.util.List' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getDatas is erased" />
       <item value="platform" />
       <item value="Unchecked call to 'setData(T)' as a member of raw type 'com.asiainfo.vo.common.TSrCommResponse'" />
-      <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="131" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
