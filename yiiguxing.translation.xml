@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Contents of collection 'map' are updated, but never queried" />
       <item value="Condition 'address == null' is always 'false'" />
       <item value="路径" />
       <item value="路线规划" />
@@ -152,7 +153,6 @@
       <item value="Generating equalshashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
       <item value="show Customer List" />
       <item value="Variable 'jsonObject' is already defined in the scope" />
-      <item value="Contents of collection 'map' are updated, but never queried" />
       <item value="customer Ids" />
       <item value="Issue" />
       <item value="card Issue Time" />
