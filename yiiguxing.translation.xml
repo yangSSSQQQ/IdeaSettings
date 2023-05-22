@@ -108,6 +108,10 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="路径" />
+      <item value="路线规划" />
+      <item value="路线" />
+      <item value="规划" />
       <item value="Unhandled exception: java.lang.Exception" />
       <item value="纬度" />
       <item value="经度" />
@@ -154,17 +158,13 @@
       <item value="Customer Transfer" />
       <item value="Transfer" />
       <item value="Cannot resolve method 'getComplainantTel' in 'PlatformProblemProcesImportVo'" />
-      <item value="Class 'PlatformRecordImportServiceImpl' must either be declared abstract or implement abstract method 'platformProblemProcesImportPark(List&lt;PlatformProblemProcesParkImportVo&gt;, String, String, String)' in 'IPlatformRecordImportService'" />
-      <item value="There are 9 changes and 3 conflicts left unprocessed. Save changes and mark the conflict resolved anyway?" />
-      <item value="The previous cherry-pick is now empty, possibly due to conflict resolution. If you wish to commit it anyway, use: git commit --allow-empty Otherwise, please use 'git cherry-pick --skip'" />
-      <item value="No usages found in All Places" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
+        <entry key="CHINESE" value="124" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="117" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
