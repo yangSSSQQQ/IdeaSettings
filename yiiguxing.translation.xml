@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Unresolved function or method submitForm()" />
+      <item value="Unused function submitForm" />
       <item value="OSHI WAIT SECOND" />
       <item value="turnover" />
       <item value="Overview Orders" />
@@ -156,8 +158,6 @@
       <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
       <item value="Raw use of parameterized class 'List&lt;&gt;'" />
       <item value="Raw use of parameterized class 'TSrCommResponse'" />
-      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getData is erased" />
-      <item value="Unchecked cast: 'java.util.List' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'. Reason: 'tSrCommResponse' has raw type, so result of getDatas is erased" />
     </histories>
     <option name="languageScores">
       <map>
