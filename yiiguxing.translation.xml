@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'var' used instead of 'let' or 'const'" />
       <item value="Unresolved type formData" />
       <item value="Unresolved function or method submitForm()" />
       <item value="Unused function submitForm" />
@@ -157,7 +158,6 @@
       <item value="Unchecked cast: 'java.util.List&lt;capture&lt;?&gt;&gt;' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
       <item value="Illegal generic type for instanceof" />
       <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;com.asiainfo.vo.comprehensive.CustomerShow&gt;'" />
-      <item value="Raw use of parameterized class 'List&lt;&gt;'" />
     </histories>
     <option name="languageScores">
       <map>
