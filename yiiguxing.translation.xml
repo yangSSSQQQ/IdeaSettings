@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="An update for GitHub Copilot is available. It's recommended to install it." />
       <item value="validation-query:" />
       <item value="Reduce the indexing time and CPU load with pre-built Maven library shared indexes" />
       <item value="convert And Send" />
@@ -157,7 +158,6 @@
       <item value="Source code does not match the bytecode" />
       <item value="Can be replaced with 'peek'" />
       <item value="Merit Student" />
-      <item value="'return' inside 'finally' block" />
     </histories>
     <option name="languageScores">
       <map>
