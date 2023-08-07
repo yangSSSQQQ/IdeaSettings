@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687444718954" />
+    <option name="lastTrimTime" value="1691422498612" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
+      <item value="Communications link failure" />
       <item value="dispatcher" />
       <item value="dispatcher Servlet" />
       <item value="Signature" />
@@ -156,15 +158,13 @@
       <item value="check Location Range" />
       <item value="Cannot resolve configuration property 'sky.shop.address'" />
       <item value="put Order Rejection Reason" />
-      <item value="put Order Cancel Reason" />
-      <item value="Local variable 'orderStatisticsVO' is redundant" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="148" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="ENGLISH" value="141" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
