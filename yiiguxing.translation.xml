@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691422498612" />
+    <option name="lastTrimTime" value="1694077479059" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Variable 'temp' is accessed from within inner class, needs to be final or effectively final" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="Communications link failure" />
       <item value="dispatcher" />
@@ -157,7 +158,6 @@
       <item value="Malformed URL Exception" />
       <item value="check Location Range" />
       <item value="Cannot resolve configuration property 'sky.shop.address'" />
-      <item value="put Order Rejection Reason" />
     </histories>
     <option name="languageScores">
       <map>
