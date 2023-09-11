@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="Variable 'temp' is accessed from within inner class, needs to be final or effectively final" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="Communications link failure" />
@@ -157,7 +158,6 @@
       <item value="Cannot resolve constructor 'JSONObject(java.lang.String)'" />
       <item value="Malformed URL Exception" />
       <item value="check Location Range" />
-      <item value="Cannot resolve configuration property 'sky.shop.address'" />
     </histories>
     <option name="languageScores">
       <map>
