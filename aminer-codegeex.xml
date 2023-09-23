@@ -1,0 +1,13 @@
+<application>
+  <component name="aminer-codegeex">
+    <option name="enableCompletions" value="false" />
+    <option name="sessionId" value="462f242b-48b6-4a34-b1d8-77de81ca62ce" />
+    <option name="userId" value="e8cbbcba5f9348beb2240cf855ee3583" />
+    <option name="userName" value="大瓶楊乐多" />
+    <option name="source" value="wechat_open" />
+    <option name="sourceId" value="oTz1V6Ivkd8QRYjW6UqGmSNTmAs0" />
+    <option name="configCacheSeconds" value="43200" />
+    <option name="minCompletionDelay" value="500" />
+    <option name="lastPluginVersion" value="2.1.1" />
+  </component>
+</application>
