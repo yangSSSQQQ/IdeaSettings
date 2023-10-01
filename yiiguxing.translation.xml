@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Common part can be extracted from 'if'" />
       <item value="Java HotSpot(TM) 64-Bit Server VM warning: Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release." />
       <item value="Unsatisfied Dependency Exception" />
       <item value="Connection was reset" />
@@ -157,7 +158,6 @@
       <item value="路径" />
       <item value="路线规划" />
       <item value="路线" />
-      <item value="规划" />
     </histories>
     <option name="languageScores">
       <map>
