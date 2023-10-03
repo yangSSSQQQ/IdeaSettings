@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Deprecated configuration property 'spring.redis.host'" />
       <item value="A component required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found." />
       <item value="flowerbed" />
       <item value="Common part can be extracted from 'if'" />
@@ -157,7 +158,6 @@
       <item value="get User Statistics" />
       <item value="Contents of collection 'map' are updated, but never queried" />
       <item value="Condition 'address == null' is always 'false'" />
-      <item value="路径" />
     </histories>
     <option name="languageScores">
       <map>
