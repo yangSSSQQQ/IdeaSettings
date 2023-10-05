@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'opsForHash()' in 'org.springframework.data.redis.core.RedisTemplate' cannot be applied to '(java.lang.String, java.lang.Long, java.lang.String)'" />
       <item value="Handler" />
       <item value="Zhi Hu Handler" />
       <item value="There is no getter for property named 'record' in 'class com.lzh.job.model.ZhihuHp'" />
@@ -157,7 +158,6 @@
       <item value="Unused function submitForm" />
       <item value="OSHI WAIT SECOND" />
       <item value="turnover" />
-      <item value="Overview Orders" />
     </histories>
     <option name="languageScores">
       <map>
