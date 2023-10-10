@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="最新" />
       <item value="Unchecked assignment: 'java.util.Map' to 'java.util.Map&lt;java.lang.Object,java.lang.Object&gt;'. Reason: 'redisTemplate.opsForHash()' has raw type, so result of entries is erased" />
       <item value="entries" />
       <item value="WRONGTYPE Operation against a key holding the wrong kind of value" />
@@ -157,14 +158,13 @@
       <item value="An update for GitHub Copilot is available. It's recommended to install it." />
       <item value="validation-query:" />
       <item value="Reduce the indexing time and CPU load with pre-built Maven library shared indexes" />
-      <item value="convert And Send" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
+        <entry key="CHINESE" value="177" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
