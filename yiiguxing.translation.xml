@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="'long' literal '0l' ends with lowercase 'l'" />
       <item value="最新" />
       <item value="Unchecked assignment: 'java.util.Map' to 'java.util.Map&lt;java.lang.Object,java.lang.Object&gt;'. Reason: 'redisTemplate.opsForHash()' has raw type, so result of entries is erased" />
@@ -142,7 +143,6 @@
       <item value="剩余" />
       <item value="Unboxing of 'redisTemplate.opsForValue().setIfAbsent(key, point.getThis().toString(), redisLock.timeout() , TimeU...' may produce 'NullPointerException'" />
       <item value="'for' statement does not loop" />
-      <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="Variable 'temp' is accessed from within inner class, needs to be final or effectively final" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
       <item value="Communications link failure" />
