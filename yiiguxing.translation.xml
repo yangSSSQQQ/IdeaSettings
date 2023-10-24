@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'nums[nums.length-1]3': integer division in floating-point context" />
       <item value="The loop could be replaced with Collection.removeIf" />
       <item value="Unexpected return value" />
       <item value="'continue' is unnecessary as the last statement in a loop" />
@@ -157,7 +158,6 @@
       <item value="It's the only usage in All Places" />
       <item value="Security Context Holder" />
       <item value="permit All" />
-      <item value="Create User Event" />
     </histories>
     <option name="languageScores">
       <map>
