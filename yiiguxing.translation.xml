@@ -104,10 +104,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Failed to parse mapping resource: 'file [D:\IdeaProjects\hp\api\target\classes\mapper\ZhihuHpMapper.xml]'" />
+      <item value="Unsatisfied dependency expressed through bean property 'sqlSessionFactory" />
+      <item value="Injection of resource dependencies failed" />
+      <item value="Cannot resolve symbol 'com.lzh.api.mapper.ZhihuHpMapper'" />
+      <item value="Pattern" />
+      <item value="allowed Origin Pattern" />
       <item value="除数" />
       <item value="deliver" />
       <item value="Heavy" />
@@ -152,19 +158,13 @@
       <item value="'for' statement does not loop" />
       <item value="Variable 'temp' is accessed from within inner class, needs to be final or effectively final" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server" />
-      <item value="Communications link failure" />
-      <item value="dispatcher" />
-      <item value="dispatcher Servlet" />
-      <item value="Signature" />
-      <item value="get Signature" />
-      <item value="join Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="188" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="ENGLISH" value="179" />
         <entry key="INDONESIAN" value="1" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
