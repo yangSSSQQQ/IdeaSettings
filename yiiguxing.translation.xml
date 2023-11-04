@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Variable 's' is already defined in the scope" />
       <item value="Trans Detail Client Client" />
       <item value="Appinter" />
       <item value="Failed to parse mapping resource: 'file [D:\IdeaProjects\hp\api\target\classes\mapper\ZhihuHpMapper.xml]'" />
@@ -157,7 +158,6 @@
       <item value="remain" />
       <item value="剩余" />
       <item value="Unboxing of 'redisTemplate.opsForValue().setIfAbsent(key, point.getThis().toString(), redisLock.timeout() , TimeU...' may produce 'NullPointerException'" />
-      <item value="'for' statement does not loop" />
     </histories>
     <option name="languageScores">
       <map>
