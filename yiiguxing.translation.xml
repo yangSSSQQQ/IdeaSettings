@@ -91,7 +91,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703745529217" />
+    <option name="lastTrimTime" value="1709658726384" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="AUTO" />
@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map'" />
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="Variable 's' is already defined in the scope" />
       <item value="Trans Detail Client Client" />
@@ -157,7 +158,6 @@
       <item value="Unsatisfied Dependency Exception" />
       <item value="Connection was reset" />
       <item value="remain" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
