@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="record Month" />
       <item value="Local variable 'resultVO' is redundant" />
       <item value="Hydropower Query" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map'" />
@@ -157,14 +158,13 @@
       <item value="flowerbed" />
       <item value="Common part can be extracted from 'if'" />
       <item value="Java HotSpot(TM) 64-Bit Server VM warning: Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release." />
-      <item value="Unsatisfied Dependency Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
+        <entry key="CHINESE" value="193" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
