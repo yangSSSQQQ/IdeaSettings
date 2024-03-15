@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Cannot resolve symbol 'FlagEnum'" />
+      <item value="Class com.ctkj.cbsfback.energycloud.controller.HydropowerController, referenced in file sys-info.2024-03-14.0.log, will not be accessible from module cbsfback Class com.ctkj.cbsfback.energycloud.sysUtils.InvokeResult, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Class com.ctkj.cbsfback.energycloud.vo.HydropowerVO, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Method HydropowerService.hydropowerSearch(HydropowerQuery), referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Interface com.ctkj.cbsfback.energycloud.service.HydropowerService, referenced in field HydropowerController.hydropowerService, will not be accessible in module cbsfback-common Class com.ctkj.cbsfback.energycloud.vo.HydropowerQuery, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common" />
       <item value="get Child Org Ids" />
       <item value="record Month" />
       <item value="Local variable 'resultVO' is redundant" />
@@ -156,8 +158,6 @@
       <item value="Consider defining a bean of type 'org.springframework.data.redis.core.RedisTemplate' in your configuration." />
       <item value="Deprecated configuration property 'spring.redis.host'" />
       <item value="A component required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found." />
-      <item value="flowerbed" />
-      <item value="Common part can be extracted from 'if'" />
     </histories>
     <option name="languageScores">
       <map>
