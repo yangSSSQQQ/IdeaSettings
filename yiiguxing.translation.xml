@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="get Child Org Ids" />
       <item value="record Month" />
       <item value="Local variable 'resultVO' is redundant" />
       <item value="Hydropower Query" />
@@ -157,14 +158,13 @@
       <item value="A component required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found." />
       <item value="flowerbed" />
       <item value="Common part can be extracted from 'if'" />
-      <item value="Java HotSpot(TM) 64-Bit Server VM warning: Options -Xverify:none and -noverify were deprecated in JDK 13 and will likely be removed in a future release." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
+        <entry key="CHINESE" value="194" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
