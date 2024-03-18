@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Unhandled exception: java.text.ParseException" />
       <item value="Lambda can be replaced with method reference" />
       <item value="Third" />
       <item value="Could not autowire. No beans of 'MaPropertyfeeMonMapper' type found." />
@@ -157,7 +158,6 @@
       <item value="Field 'id' doesn't have a default value" />
       <item value="add Criterion" />
       <item value="Description" />
-      <item value="Consider defining a bean of type 'org.springframework.web.client.RestTemplate' in your configuration." />
     </histories>
     <option name="languageScores">
       <map>
