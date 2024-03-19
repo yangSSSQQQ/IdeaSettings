@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Operator '&amp;&amp;' cannot be applied to 'java.lang.String', 'boolea" />
       <item value="last Month First Data List" />
       <item value="data Early List" />
       <item value="Typo: In word 'Earlies'" />
@@ -157,7 +158,6 @@
       <item value="zhihu Get Hot From Cache" />
       <item value="从缓存获取" />
       <item value="zhihu Get Hot For Cache" />
-      <item value="Parameter 'list' not found. Available parameters are [collect, param1]" />
     </histories>
     <option name="languageScores">
       <map>
