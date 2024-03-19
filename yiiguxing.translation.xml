@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Typo: In word 'Earlies'" />
       <item value="query Earlies Meter Data" />
       <item value="query Early Meter Data" />
       <item value="query Meter Data Of Early" />
@@ -157,7 +158,6 @@
       <item value="Parameter 'list' not found. Available parameters are [collect, param1]" />
       <item value="Available" />
       <item value="required" />
-      <item value="queue Capacity" />
     </histories>
     <option name="languageScores">
       <map>
