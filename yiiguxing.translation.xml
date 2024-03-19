@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Unchecked cast: 'java.lang.Object' to 'java.util.List&lt;java.lang.String&gt;'. Reason: 'params' has raw type, so result of get is erased" />
       <item value="data" />
       <item value="remark" />
       <item value="meter" />
@@ -157,7 +158,6 @@
       <item value="Handler" />
       <item value="Zhi Hu Handler" />
       <item value="There is no getter for property named 'record' in 'class com.lzh.job.model.ZhihuHp'" />
-      <item value="Duplicate" />
     </histories>
     <option name="languageScores">
       <map>
