@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: 'powerAreaOptions' is not defined.(no-undef)" />
       <item value="ESLint: Missing space before opening brace.(space-before-blocks)" />
       <item value="'addAll()' call can be replaced with parametrized constructor call" />
       <item value="Local variable 'tempSet' is redundant" />
@@ -157,7 +158,6 @@
       <item value="The loop could be replaced with Collection.removeIf" />
       <item value="Unexpected return value" />
       <item value="'continue' is unnecessary as the last statement in a loop" />
-      <item value="'long' literal '0l' ends with lowercase 'l'" />
     </histories>
     <option name="languageScores">
       <map>
