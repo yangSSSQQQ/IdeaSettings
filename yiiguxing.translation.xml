@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: Missing space before opening brace.(space-before-blocks)" />
       <item value="'addAll()' call can be replaced with parametrized constructor call" />
       <item value="Local variable 'tempSet' is redundant" />
       <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.time.LocalDateTime)'" />
@@ -157,7 +158,6 @@
       <item value="Unexpected return value" />
       <item value="'continue' is unnecessary as the last statement in a loop" />
       <item value="'long' literal '0l' ends with lowercase 'l'" />
-      <item value="最新" />
     </histories>
     <option name="languageScores">
       <map>
