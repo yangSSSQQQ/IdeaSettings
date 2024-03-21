@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.lang.Double)'" />
       <item value="early Elec Reading" />
       <item value="external Energy Report Service" />
       <item value="ESLint: 'powerAreaOptions' is not defined.(no-undef)" />
@@ -157,7 +158,6 @@
       <item value="Heavy" />
       <item value="bulky" />
       <item value="'nums[nums.length-1]3': integer division in floating-point context" />
-      <item value="The loop could be replaced with Collection.removeIf" />
     </histories>
     <option name="languageScores">
       <map>
