@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="early Elec Reading" />
       <item value="external Energy Report Service" />
       <item value="ESLint: 'powerAreaOptions' is not defined.(no-undef)" />
       <item value="ESLint: Missing space before opening brace.(space-before-blocks)" />
@@ -157,14 +158,13 @@
       <item value="bulky" />
       <item value="'nums[nums.length-1]3': integer division in floating-point context" />
       <item value="The loop could be replaced with Collection.removeIf" />
-      <item value="Unexpected return value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
+        <entry key="CHINESE" value="208" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
