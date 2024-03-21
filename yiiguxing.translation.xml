@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Method does not override method from its superclass" />
       <item value="No operations allowed after connection closed." />
       <item value="Could not get a resource from the pool" />
       <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.lang.Double)'" />
@@ -157,7 +158,6 @@
       <item value="allowed Origin Pattern" />
       <item value="除数" />
       <item value="deliver" />
-      <item value="Heavy" />
     </histories>
     <option name="languageScores">
       <map>
