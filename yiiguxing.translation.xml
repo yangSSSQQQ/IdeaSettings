@@ -108,6 +108,18 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="signature" />
+      <item value="确认签字" />
+      <item value="sign" />
+      <item value="electricity Explain" />
+      <item value="electricity State" />
+      <item value="说明" />
+      <item value="ratio" />
+      <item value="变比" />
+      <item value="上次" />
+      <item value="last Reading" />
+      <item value="current Record" />
+      <item value="current Reading" />
       <item value="Method does not override method from its superclass" />
       <item value="No operations allowed after connection closed." />
       <item value="Could not get a resource from the pool" />
@@ -146,25 +158,13 @@
       <item value="Local variable 'resultVO' is redundant" />
       <item value="Hydropower Query" />
       <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map'" />
-      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
-      <item value="Variable 's' is already defined in the scope" />
-      <item value="Trans Detail Client Client" />
-      <item value="Appinter" />
-      <item value="Failed to parse mapping resource: 'file [D:\IdeaProjects\hp\api\target\classes\mapper\ZhihuHpMapper.xml]'" />
-      <item value="Unsatisfied dependency expressed through bean property 'sqlSessionFactory" />
-      <item value="Injection of resource dependencies failed" />
-      <item value="Cannot resolve symbol 'com.lzh.api.mapper.ZhihuHpMapper'" />
-      <item value="Pattern" />
-      <item value="allowed Origin Pattern" />
-      <item value="除数" />
-      <item value="deliver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
+        <entry key="CHINESE" value="222" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="212" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
