@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Field injection is not recommended" />
       <item value="signature" />
       <item value="确认签字" />
       <item value="sign" />
@@ -157,7 +158,6 @@
       <item value="record Month" />
       <item value="Local variable 'resultVO' is redundant" />
       <item value="Hydropower Query" />
-      <item value="Unchecked call to 'put(K, V)' as a member of raw type 'java.util.Map'" />
     </histories>
     <option name="languageScores">
       <map>
