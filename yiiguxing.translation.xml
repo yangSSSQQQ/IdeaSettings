@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: The &quot;watch&quot; property should be above the &quot;mounted&quot; property on line 55.(vueorder-in-components)" />
       <item value="Method breakpoints may dramatically slow down debugging" />
       <item value="with Day Of Month" />
       <item value="Field injection is not recommended" />
@@ -157,7 +158,6 @@
       <item value="Cannot resolve symbol 'FlagEnum'" />
       <item value="Class com.ctkj.cbsfback.energycloud.controller.HydropowerController, referenced in file sys-info.2024-03-14.0.log, will not be accessible from module cbsfback Class com.ctkj.cbsfback.energycloud.sysUtils.InvokeResult, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Class com.ctkj.cbsfback.energycloud.vo.HydropowerVO, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Method HydropowerService.hydropowerSearch(HydropowerQuery), referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common Interface com.ctkj.cbsfback.energycloud.service.HydropowerService, referenced in field HydropowerController.hydropowerService, will not be accessible in module cbsfback-common Class com.ctkj.cbsfback.energycloud.vo.HydropowerQuery, referenced in method HydropowerController.hydropowerSearch(HydropowerQuery), will not be accessible in module cbsfback-common" />
       <item value="get Child Org Ids" />
-      <item value="record Month" />
     </histories>
     <option name="languageScores">
       <map>
