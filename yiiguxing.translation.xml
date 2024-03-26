@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Lambda can be replaced with method reference" />
       <item value="set Previous Reading" />
       <item value="new Start Time" />
       <item value="Star" />
@@ -157,7 +158,6 @@
       <item value="query Earlies Meter Data" />
       <item value="query Early Meter Data" />
       <item value="query Meter Data Of Early" />
-      <item value="电量" />
     </histories>
     <option name="languageScores">
       <map>
