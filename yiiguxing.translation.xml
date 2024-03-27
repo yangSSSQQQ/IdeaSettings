@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Cannot resolve constructor 'BigDecimal(java.math.BigDecimal)'" />
       <item value="Lambda can be replaced with method reference" />
       <item value="set Previous Reading" />
       <item value="new Start Time" />
@@ -157,7 +158,6 @@
       <item value="Typo: In word 'Earlies'" />
       <item value="query Earlies Meter Data" />
       <item value="query Early Meter Data" />
-      <item value="query Meter Data Of Early" />
     </histories>
     <option name="languageScores">
       <map>
