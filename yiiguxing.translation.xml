@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Local variable 'sortedRsList' is redundant" />
       <item value="Attribute &quot;clearable&quot; should go before &quot;@change&quot;.(vueattributes-orde" />
       <item value="功能" />
       <item value="change Function" />
@@ -157,7 +158,6 @@
       <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.time.LocalDateTime)'" />
       <item value="Code analysis can't be performed while IDEA updates the indexes in background. You can commit the changes without running inspections, or you can wait until indexes are built." />
       <item value="Unknown column 'd.DATA_DATE' in 'where clause'" />
-      <item value="Variable used in lambda expression should be final or effectively final" />
     </histories>
     <option name="languageScores">
       <map>
