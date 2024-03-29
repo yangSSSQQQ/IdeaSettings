@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Non-static method cannot be referenced from a static context" />
+      <item value="Argument type 'String' does not match the type of the format specifier '%.2f'" />
       <item value="Result of 'BigDecimal.add()' is ignored" />
       <item value="Constant expression required" />
       <item value="compute If Absent" />
@@ -156,8 +158,6 @@
       <item value="No operations allowed after connection closed." />
       <item value="Could not get a resource from the pool" />
       <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.lang.Double)'" />
-      <item value="early Elec Reading" />
-      <item value="external Energy Report Service" />
     </histories>
     <option name="languageScores">
       <map>
