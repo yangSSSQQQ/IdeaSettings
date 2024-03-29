@@ -108,6 +108,8 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Result of 'BigDecimal.add()' is ignored" />
+      <item value="Constant expression required" />
       <item value="compute If Absent" />
       <item value="query Fee Notice Custom" />
       <item value="自定义" />
@@ -156,8 +158,6 @@
       <item value="'put(java.lang.String, java.lang.String)' in 'java.util.Map' cannot be applied to '(java.lang.Double)'" />
       <item value="early Elec Reading" />
       <item value="external Energy Report Service" />
-      <item value="ESLint: 'powerAreaOptions' is not defined.(no-undef)" />
-      <item value="ESLint: Missing space before opening brace.(space-before-blocks)" />
     </histories>
     <option name="languageScores">
       <map>
