@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="自定义" />
       <item value="Variable 'row2' is already defined in the scope" />
       <item value="Handler dispatch failed" />
       <item value="candidate" />
@@ -120,7 +121,6 @@
       <item value="Constant expression required" />
       <item value="compute If Absent" />
       <item value="query Fee Notice Custom" />
-      <item value="自定义" />
       <item value="Variable 'startDate' is already defined in the scope" />
       <item value="Variable 'stopDate' might not have been initialized" />
       <item value="Local variable 'sortedRsList' is redundant" />
@@ -161,10 +161,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="248" />
+        <entry key="CHINESE" value="249" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
