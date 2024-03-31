@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Variable 'row2' is already defined in the scope" />
       <item value="Handler dispatch failed" />
       <item value="candidate" />
       <item value="MEDIUM DASH DOT DOT" />
@@ -157,7 +158,6 @@
       <item value="变比" />
       <item value="上次" />
       <item value="last Reading" />
-      <item value="current Record" />
     </histories>
     <option name="languageScores">
       <map>
