@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: A space is required after '{'.(object-curly-spacing)" />
       <item value="ESLint: 'axios' is not defined.(no-undef)" />
       <item value="curve Data" />
       <item value="ESLint: The &quot;exportData&quot; component has been registered but not used.(vueno-unused-components)" />
@@ -157,7 +158,6 @@
       <item value="electricity Explain" />
       <item value="electricity State" />
       <item value="说明" />
-      <item value="ratio" />
     </histories>
     <option name="languageScores">
       <map>
