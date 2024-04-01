@@ -104,10 +104,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: 'axios' is not defined.(no-undef)" />
       <item value="curve Data" />
       <item value="ESLint: The &quot;exportData&quot; component has been registered but not used.(vueno-unused-components)" />
       <item value="自定义" />
@@ -157,7 +158,6 @@
       <item value="electricity State" />
       <item value="说明" />
       <item value="ratio" />
-      <item value="变比" />
     </histories>
     <option name="languageScores">
       <map>
