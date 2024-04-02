@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Condition 'StringUtils.isNotBlank(queryPowerType) &amp;&amp; queryPowerType.equals(PowerEnum.E_ELECTRIC)' is always 'false'" />
       <item value="Require self-closing on Vue.js custom components (&lt;el-option&gt;).(vuehtml-self-closing)" />
       <item value="Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
       <item value="ESLint: Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
@@ -157,7 +158,6 @@
       <item value="Field injection is not recommended" />
       <item value="signature" />
       <item value="确认签字" />
-      <item value="sign" />
     </histories>
     <option name="languageScores">
       <map>
