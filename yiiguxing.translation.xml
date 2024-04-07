@@ -108,13 +108,13 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="ESLint: Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
       <item value="recharge Record" />
       <item value="Recharge Report" />
       <item value="Variable used in lambda expression should be final or effectively final" />
       <item value="Condition 'StringUtils.isNotBlank(queryPowerType) &amp;&amp; queryPowerType.equals(PowerEnum.E_ELECTRIC)' is always 'false'" />
       <item value="Require self-closing on Vue.js custom components (&lt;el-option&gt;).(vuehtml-self-closing)" />
       <item value="Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
-      <item value="ESLint: Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
       <item value="ESLint: A space is required after '{'.(object-curly-spacing)" />
       <item value="ESLint: 'axios' is not defined.(no-undef)" />
       <item value="curve Data" />
