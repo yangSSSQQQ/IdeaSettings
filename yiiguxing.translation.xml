@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="Variable endDate implicitly declared" />
       <item value="query List By Condition" />
       <item value="date Range" />
       <item value="ESLint: Expected 1 line break before closing bracket, but no line breaks found.(vuehtml-closing-bracket-newline)" />
@@ -157,7 +158,6 @@
       <item value="处理" />
       <item value="Local variable 'powerAreaOptions' is redundant" />
       <item value="power Area Options" />
-      <item value="ESLint: The &quot;watch&quot; property should be above the &quot;mounted&quot; property on line 55.(vueorder-in-components)" />
     </histories>
     <option name="languageScores">
       <map>
