@@ -108,6 +108,7 @@
     <option name="newTranslationDialogX" value="231" />
     <option name="newTranslationDialogY" value="418" />
     <histories>
+      <item value="clearable" />
       <item value="Variable endDate implicitly declared" />
       <item value="query List By Condition" />
       <item value="date Range" />
@@ -157,14 +158,13 @@
       <item value="factor" />
       <item value="处理" />
       <item value="Local variable 'powerAreaOptions' is redundant" />
-      <item value="power Area Options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="255" />
         <entry key="CROATIAN" value="1" />
         <entry key="CZECH" value="1" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="INDONESIAN" value="2" />
         <entry key="ITALIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
